@@ -1,12 +1,15 @@
 ### Hi, my name is Sarah 👋
 
-_I am an Associate Professor of Data Analytics at_ Denison University. _I conduct collaborative research in the areas of biodiversity change, animal movement, and the integration of data science skills into disciplinary domains. At Denison, I teach undergrduate courses in the interdisciplinary Data Analytics Program, including programming in R, python, and SQL, version control using GitHub, research methods, and project management._
+_I am an Associate Professor of Data Analytics at_ Denison University. _I conduct collaborative research in the areas of biodiversity change, animal movement, and the integration of data science skills into disciplinary domains. At Denison, I teach interdisciplinary undergrduate courses, including programming in R, python, and SQL, version control using GitHub, research methods, and project management._
 
 ![eastern-redcedar-68901.jpg](eastern-redcedar-68901.jpg)
 
 **Here's a quick summary about me**
 - 😄 Pronouns: she/her
-- 🔭 I’m currently working on several National Science Foundation grants, examining bird migration and range expansion of the eastern redcedar tree, species persistence in systems with long-term disturbance dynamics, and integrating data science skills into undergraduate biology curricula
+- 🔭 I’m currently working on several National Science Foundation grants:
+  - examining bird migration and range expansion of the eastern redcedar tree
+  - species persistence in systems with long-term disturbance dynamics
+  - integrating data science skills into undergraduate biology curricula
 - 🌱 I’m currently (re)learning python after a long hiatus to focus on research projects that use R
 - 📫 You can view my website at [https://sarahsupp.org](https://sarahsupp.org) and contact me through my [Denison University webpage](https://denison.edu/people/sarah-supp)
 
